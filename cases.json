@@ -1,10 +1,18 @@
 [
   {
     "id": "322989793181EED0E06333F21FAC4CE5",
-    "label": "Case 1 - Name or description"
+    "label": "FREIBAU s.r.o."
   },
   {
-    "id": "PASTE_SECOND_CASE_ID_HERE",
-    "label": "Case 2 - Name or description"
+    "id": "4C2E35F83AE7912BE06333F21FACBE50",
+    "label": "Levné knihy a.s."
+  },
+  {
+    "id": "03F6BA7055F6CDE0E06333F21FAC4C0C",
+    "label": "Invictus development s.r.o."
+  },
+  {
+    "id": "20E004BB6BC34205E06333F21FACBD66",
+    "label": "FEVE s.r.o."
   }
 ]
