@@ -5,14 +5,16 @@ on:
     # Runs every day at 08:00 UTC (09:00 Vienna time, 10:00 in summer)
     - cron: '0 8 * * *'
   workflow_dispatch:
-    # Allows you to trigger a manual run from the GitHub website (useful for first run)
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # needed so the action can save the updated snapshot back to the repo
+      contents: write
 
     steps:
       - name: Check out repository
