@@ -7619,7 +7619,7 @@
       [
         "",
         "Datum poslední zveřejněné události",
-        "14.04.2026 (B-12)"
+        "14.04.2026 (P52-1)"
       ],
       [
         "",
@@ -7929,7 +7929,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (627 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -7940,7 +7940,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (6523 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -7951,7 +7951,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (617 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -7973,7 +7973,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (618 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -7984,7 +7984,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (11340 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -8666,6 +8666,18 @@
         ""
       ],
       [
+        "P48 - \r\n                2.",
+        "14.04.2026",
+        "13:19",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (634 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "P49 - \r\n                1.",
         "13.04.2026",
         "12:55",
@@ -8675,6 +8687,42 @@
         "",
         "",
         "CCS Consulting, s.r.o.",
+        ""
+      ],
+      [
+        "P50 - \r\n                1.",
+        "14.04.2026",
+        "13:32",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (630 kB)",
+        "",
+        "",
+        "IGNORIS s.r.o.",
+        ""
+      ],
+      [
+        "P51 - \r\n                1.",
+        "14.04.2026",
+        "13:38",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (758 kB)",
+        "",
+        "",
+        "Albatros Media, a.s.",
+        ""
+      ],
+      [
+        "P52 - \r\n                1.",
+        "14.04.2026",
+        "13:49",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (638 kB)",
+        "",
+        "",
+        "Palmknihy s.r.o.",
         ""
       ],
       [
@@ -8743,7 +8791,7 @@
       [
         "",
         "Datum poslední zveřejněné události",
-        "14.04.2026 (B-12)"
+        "14.04.2026 (P52-1)"
       ],
       [
         "",
@@ -9053,7 +9101,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (627 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -9064,7 +9112,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (6523 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -9075,7 +9123,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (617 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -9097,7 +9145,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (618 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -9108,7 +9156,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (11340 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -9790,6 +9838,18 @@
         ""
       ],
       [
+        "P48 - \r\n                2.",
+        "14.04.2026",
+        "13:19",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (634 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "P49 - \r\n                1.",
         "13.04.2026",
         "12:55",
@@ -9799,6 +9859,42 @@
         "",
         "",
         "CCS Consulting, s.r.o.",
+        ""
+      ],
+      [
+        "P50 - \r\n                1.",
+        "14.04.2026",
+        "13:32",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (630 kB)",
+        "",
+        "",
+        "IGNORIS s.r.o.",
+        ""
+      ],
+      [
+        "P51 - \r\n                1.",
+        "14.04.2026",
+        "13:38",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (758 kB)",
+        "",
+        "",
+        "Albatros Media, a.s.",
+        ""
+      ],
+      [
+        "P52 - \r\n                1.",
+        "14.04.2026",
+        "13:49",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (638 kB)",
+        "",
+        "",
+        "Palmknihy s.r.o.",
         ""
       ],
       [
@@ -9867,7 +9963,7 @@
       [
         "",
         "Datum poslední zveřejněné události",
-        "14.04.2026 (B-12)"
+        "14.04.2026 (P52-1)"
       ],
       [
         "",
@@ -10177,7 +10273,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (627 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -10188,7 +10284,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (6523 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -10199,7 +10295,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (617 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -10221,7 +10317,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (618 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -10232,7 +10328,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (11340 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -10914,6 +11010,18 @@
         ""
       ],
       [
+        "P48 - \r\n                2.",
+        "14.04.2026",
+        "13:19",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (634 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "P49 - \r\n                1.",
         "13.04.2026",
         "12:55",
@@ -10923,6 +11031,42 @@
         "",
         "",
         "CCS Consulting, s.r.o.",
+        ""
+      ],
+      [
+        "P50 - \r\n                1.",
+        "14.04.2026",
+        "13:32",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (630 kB)",
+        "",
+        "",
+        "IGNORIS s.r.o.",
+        ""
+      ],
+      [
+        "P51 - \r\n                1.",
+        "14.04.2026",
+        "13:38",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (758 kB)",
+        "",
+        "",
+        "Albatros Media, a.s.",
+        ""
+      ],
+      [
+        "P52 - \r\n                1.",
+        "14.04.2026",
+        "13:49",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (638 kB)",
+        "",
+        "",
+        "Palmknihy s.r.o.",
         ""
       ],
       [
@@ -10991,7 +11135,7 @@
       [
         "",
         "Datum poslední zveřejněné události",
-        "14.04.2026 (B-12)"
+        "14.04.2026 (P52-1)"
       ],
       [
         "",
@@ -11301,7 +11445,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (627 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -11312,7 +11456,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (6523 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -11323,7 +11467,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (617 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -11345,7 +11489,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (618 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -11356,7 +11500,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (11340 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -12038,6 +12182,18 @@
         ""
       ],
       [
+        "P48 - \r\n                2.",
+        "14.04.2026",
+        "13:19",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (634 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "P49 - \r\n                1.",
         "13.04.2026",
         "12:55",
@@ -12047,6 +12203,42 @@
         "",
         "",
         "CCS Consulting, s.r.o.",
+        ""
+      ],
+      [
+        "P50 - \r\n                1.",
+        "14.04.2026",
+        "13:32",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (630 kB)",
+        "",
+        "",
+        "IGNORIS s.r.o.",
+        ""
+      ],
+      [
+        "P51 - \r\n                1.",
+        "14.04.2026",
+        "13:38",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (758 kB)",
+        "",
+        "",
+        "Albatros Media, a.s.",
+        ""
+      ],
+      [
+        "P52 - \r\n                1.",
+        "14.04.2026",
+        "13:49",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (638 kB)",
+        "",
+        "",
+        "Palmknihy s.r.o.",
         ""
       ],
       [
@@ -12115,7 +12307,7 @@
       [
         "",
         "Datum poslední zveřejněné události",
-        "14.04.2026 (B-12)"
+        "14.04.2026 (P52-1)"
       ],
       [
         "",
@@ -12425,7 +12617,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (627 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -12436,7 +12628,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (6523 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -12447,7 +12639,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (617 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -12469,7 +12661,7 @@
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (618 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -12480,7 +12672,7 @@
         "Pohledávka za majetkovou podstatou",
         "I_1025",
         "plný text\r\n                       (11340 kB)",
-        "",
+        "plný text\r\n                       (123 kB)",
         "",
         ""
       ],
@@ -13162,6 +13354,18 @@
         ""
       ],
       [
+        "P48 - \r\n                2.",
+        "14.04.2026",
+        "13:19",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (634 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "P49 - \r\n                1.",
         "13.04.2026",
         "12:55",
@@ -13171,6 +13375,42 @@
         "",
         "",
         "CCS Consulting, s.r.o.",
+        ""
+      ],
+      [
+        "P50 - \r\n                1.",
+        "14.04.2026",
+        "13:32",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (630 kB)",
+        "",
+        "",
+        "IGNORIS s.r.o.",
+        ""
+      ],
+      [
+        "P51 - \r\n                1.",
+        "14.04.2026",
+        "13:38",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (758 kB)",
+        "",
+        "",
+        "Albatros Media, a.s.",
+        ""
+      ],
+      [
+        "P52 - \r\n                1.",
+        "14.04.2026",
+        "13:49",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (638 kB)",
+        "",
+        "",
+        "Palmknihy s.r.o.",
         ""
       ],
       [
