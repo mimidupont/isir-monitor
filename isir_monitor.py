@@ -25,7 +25,6 @@ CASES_FILE    = "cases.json"
 SNAPSHOT_FILE = "isir_snapshot.json"
 
 # Only alert on rows whose date is within this many hours of now.
-# Prevents false alerts from stale baseline mismatches.
 MAX_AGE_HOURS = 48
 
 TABS = [
@@ -46,44 +45,89 @@ HEADERS = {
     "Referer": "https://isir.justice.cz/",
 }
 
+# Rows containing these strings are metadata/headers, not real entries — skip them.
+SKIP_ROW_KEYWORDS = [
+    "Datum posledn",   # "Datum poslední zveřejněné události" summary row
+]
+
 # ─── SCRAPING ─────────────────────────────────────────────────────────────────
 
 def case_url(case_id):
     return f"https://isir.justice.cz/isir/ueu/evidence_upadcu_detail.do?id={case_id}"
 
 
-def fetch_tab(session, case_id, tab_param):
-    url = (
-        "https://isir.justice.cz/isir/ueu/evidence_upadcu_detail.do"
-        f"?id={case_id}&odkaz={tab_param}"
-    )
+def is_metadata_row(cells):
+    """Returns True for summary/header rows that should never be treated as data."""
+    row_text = " ".join(cells)
+    return any(kw in row_text for kw in SKIP_ROW_KEYWORDS)
+
+
+def extract_rows(html):
+    """Extract all meaningful data rows from an HTML page, skipping metadata rows."""
+    soup = BeautifulSoup(html, "html.parser")
+    rows = []
+    seen = set()
+    for table in soup.find_all("table"):
+        for tr in table.find_all("tr"):
+            cells = [td.get_text(strip=True) for td in tr.find_all(["td", "th"])]
+            if not cells or not any(c for c in cells):
+                continue
+            if is_metadata_row(cells):
+                continue
+            key = json.dumps(cells, ensure_ascii=False)
+            if key in seen:
+                continue  # deduplicate identical rows within same page
+            seen.add(key)
+            rows.append(cells)
+    return rows
+
+
+def fetch_page(session, url):
     try:
         resp = session.get(url, headers=HEADERS, timeout=30)
         resp.encoding = "utf-8"
         resp.raise_for_status()
+        return resp.text
     except requests.RequestException as e:
-        print(f"    [!] Could not fetch tab {tab_param}: {e}")
-        return []
-
-    soup = BeautifulSoup(resp.text, "html.parser")
-    rows = []
-    for table in soup.find_all("table"):
-        for tr in table.find_all("tr"):
-            cells = [td.get_text(strip=True) for td in tr.find_all(["td", "th"])]
-            if cells and any(c for c in cells):
-                rows.append(cells)
-    return rows
+        print(f"    [!] Could not fetch {url}: {e}")
+        return ""
 
 
 def scrape_case(session, case_id):
-    data = {}
-    try:
-        session.get(case_url(case_id), headers=HEADERS, timeout=30)
-    except requests.RequestException as e:
-        print(f"  [!] Could not reach case page: {e}")
+    """
+    Scrape all tabs for one case.
+
+    Strategy:
+    - Fetch the main page (no tab param) → this is the global event list, stored under key "main"
+    - Fetch each tab page → extract only rows that are NOT already in the main page
+      (i.e. rows that are tab-specific, like creditor claims in Oddil P)
+    - This prevents the same rows from appearing under every tab heading.
+    """
+    base = case_url(case_id)
+
+    # Step 1: scrape the main page once
+    print(f"    Fetching main page ...")
+    main_html = fetch_page(session, base)
+    main_rows = extract_rows(main_html)
+    main_set  = set(json.dumps(r, ensure_ascii=False) for r in main_rows)
+
+    data = {"main": main_rows}
+
+    # Step 2: scrape each tab and keep only tab-exclusive rows
     for param, name in TABS:
         print(f"    Fetching {name} ...")
-        data[param] = fetch_tab(session, case_id, param)
+        tab_url  = base + f"&odkaz={param}"
+        tab_html = fetch_page(session, tab_url)
+        if not tab_html:
+            data[param] = []
+            continue
+
+        all_tab_rows = extract_rows(tab_html)
+        # Keep only rows not already in the main page
+        exclusive = [r for r in all_tab_rows
+                     if json.dumps(r, ensure_ascii=False) not in main_set]
+        data[param] = exclusive
+
     return data
 
 # ─── SNAPSHOT ─────────────────────────────────────────────────────────────────
@@ -105,9 +149,8 @@ DATE_PATTERN = re.compile(r"\b(\d{2})\.(\d{2})\.(\d{4})\b")
 
 def row_is_recent(row, max_age_hours=MAX_AGE_HOURS):
     """
-    Returns True if the row contains a Czech date (DD.MM.YYYY) that falls
-    within max_age_hours of now, OR if the row contains no date at all
-    (so undated rows are always included).
+    Returns True if the row contains a Czech date within max_age_hours of now,
+    or if the row contains no date at all (undated rows are always included).
     """
     cutoff = datetime.now() - timedelta(hours=max_age_hours)
     dates_found = []
@@ -117,17 +160,29 @@ def row_is_recent(row, max_age_hours=MAX_AGE_HOURS):
             try:
                 dates_found.append(datetime(year, month, day))
             except ValueError:
-                pass  # ignore invalid dates
-
+                pass
     if not dates_found:
-        return True  # no date in row — include it to be safe
-    return max(dates_found) >= cutoff  # use the most recent date in the row
-
+        return True
+    return max(dates_found) >= cutoff
 
 # ─── COMPARISON ───────────────────────────────────────────────────────────────
 
 def find_new_rows(old_case_data, new_case_data):
+    """
+    Compare old and new snapshots. Returns dict of section_key -> (label, [new rows]).
+    Checks "main" (shared events) plus each tab's exclusive rows.
+    """
     changes = {}
+
+    # Check main page rows (shared event list)
+    old_set = set(json.dumps(r, ensure_ascii=False) for r in old_case_data.get("main", []))
+    added   = [r for r in new_case_data.get("main", [])
+               if json.dumps(r, ensure_ascii=False) not in old_set
+               and row_is_recent(r)]
+    if added:
+        changes["main"] = ("Udalosti (hlavni seznam)", added)
+
+    # Check each tab's exclusive rows
     for param, name in TABS:
         old_set = set(json.dumps(r, ensure_ascii=False) for r in old_case_data.get(param, []))
         added   = [r for r in new_case_data.get(param, [])
@@ -135,6 +190,7 @@ def find_new_rows(old_case_data, new_case_data):
                    and row_is_recent(r)]
         if added:
             changes[param] = (name, added)
+
     return changes
 
 # ─── EMAIL ────────────────────────────────────────────────────────────────────
@@ -149,8 +205,8 @@ def send_email(all_changes):
         lines.append(case_label)
         lines.append(case_url(case_id))
         lines.append("")
-        for param, (tab_name, rows) in changes.items():
-            lines.append(f"  -- {tab_name} --")
+        for key, (section_name, rows) in changes.items():
+            lines.append(f"  -- {section_name} --")
             for row in rows:
                 lines.append("    * " + " | ".join(str(c) for c in row))
             lines.append("")
@@ -159,8 +215,8 @@ def send_email(all_changes):
     for case_label, case_id, changes in all_changes:
         url = case_url(case_id)
         tables_html = ""
-        for param, (tab_name, rows) in changes.items():
-            tables_html += f"<h3 style='color:#185FA5;margin:16px 0 4px'>{tab_name}</h3>"
+        for key, (section_name, rows) in changes.items():
+            tables_html += f"<h3 style='color:#185FA5;margin:16px 0 4px'>{section_name}</h3>"
             tables_html += "<table style='border-collapse:collapse;width:100%;font-size:13px;margin-bottom:12px'>"
             for row in rows:
                 tables_html += "<tr>" + "".join(
@@ -229,7 +285,6 @@ def main():
 
             old_data = snapshot.get(case_id, {})
             if not old_data:
-                # Case newly added to cases.json
                 print("  New case — saving baseline, no alert for this one.")
                 snapshot[case_id] = new_data
                 continue
