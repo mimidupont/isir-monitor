@@ -5913,6 +5913,17 @@
         ""
       ],
       [
+        "72.",
+        "05.05.2026",
+        "14:47",
+        "Zpráva o průběhu zpeněžení",
+        "I_50",
+        "plný text\r\n                       (29831 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -6608,7 +6619,7 @@
       ],
       [
         "P22 - \r\n                2.",
-        "23.01.2025",
+        "12.12.2022",
         "06:55",
         "Částečné zpětvzetí přihlášené pohledávky",
         "I_562",
@@ -7210,10 +7221,75 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "P22 - \r\n                2.",
+        "23.01.2025",
+        "06:55",
+        "Částečné zpětvzetí přihlášené pohledávky",
+        "I_562",
+        "plný text\r\n                       (164 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "P22 - \r\n                2.",
+        "23.01.2025",
+        "06:55",
+        "Částečné zpětvzetí přihlášené pohledávky",
+        "I_562",
+        "plný text\r\n                       (164 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P22 - \r\n                2.",
+        "23.01.2025",
+        "06:55",
+        "Částečné zpětvzetí přihlášené pohledávky",
+        "I_562",
+        "plný text\r\n                       (164 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P22 - \r\n                2.",
+        "23.01.2025",
+        "06:55",
+        "Částečné zpětvzetí přihlášené pohledávky",
+        "I_562",
+        "plný text\r\n                       (164 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "P22 - \r\n                2.",
+        "23.01.2025",
+        "06:55",
+        "Částečné zpětvzetí přihlášené pohledávky",
+        "I_562",
+        "plný text\r\n                       (164 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   }
 }
