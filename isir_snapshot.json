@@ -816,6 +816,18 @@
         ""
       ],
       [
+        "C3 - \r\n                10.",
+        "12.05.2026",
+        "12:52",
+        "Sdělení",
+        "I_28",
+        "plný text\r\n                       (651 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -7235,7 +7247,20 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [],
+    "D": [
+      [
+        "P34 - \r\n                1.",
+        "08.03.2021",
+        "07:30",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (168 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Česká správa sociálního zabezpečení, Pracoviště České správy sociálního zabezpečení Ostrava",
+        ""
+      ]
+    ],
     "P": []
   }
 }
