@@ -553,6 +553,17 @@
         ""
       ],
       [
+        "33.",
+        "13.05.2026",
+        "13:46",
+        "Záznam o vydání",
+        "I_580",
+        "plný text\r\n                       (191 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -1530,6 +1541,18 @@
         "I_63",
         "plný text\r\n                       (643 kB)",
         "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro hlavní město Prahu",
+        ""
+      ],
+      [
+        "P46 - \r\n                1.",
+        "13.05.2026",
+        "13:48",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "",
         "",
         "Finanční úřad pro hlavní město Prahu",
         ""
@@ -7247,20 +7270,7 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "P34 - \r\n                1.",
-        "08.03.2021",
-        "07:30",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (168 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "Česká správa sociálního zabezpečení, Pracoviště České správy sociálního zabezpečení Ostrava",
-        ""
-      ]
-    ],
+    "D": [],
     "P": []
   }
 }
