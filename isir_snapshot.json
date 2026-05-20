@@ -564,6 +564,17 @@
         ""
       ],
       [
+        "34.",
+        "19.05.2026",
+        "13:33",
+        "Zpráva IS o stavu řízení",
+        "I_332",
+        "plný text\r\n                       (10140 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -1636,7 +1647,7 @@
         "Přihláška pohledávky",
         "I_63",
         "plný text\r\n                       (642 kB)",
-        "",
+        "plný text\r\n                       (119 kB)",
         "",
         "Finanční úřad pro hlavní město Prahu",
         ""
@@ -1646,21 +1657,21 @@
       ]
     ],
     "A": [],
-    "B": [],
-    "C": [
+    "B": [
       [
-        "C2 - \r\n                9.",
-        "05.03.2024",
-        "15:04",
-        "Vyjádření k žalobě",
-        "I_927",
-        "plný text\r\n                       (923 kB)",
+        "P19 - \r\n                1.",
+        "09.07.2025",
+        "13:25",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (973 kB)",
+        "plný text\r\n                       (119 kB)",
         "",
-        "",
-        "",
+        "D E L F Y s.r.o.",
         ""
       ]
     ],
+    "C": [],
     "D": [],
     "P": []
   },
@@ -7376,19 +7387,7 @@
       ]
     ],
     "A": [],
-    "B": [
-      [
-        "14.",
-        "15.11.2018",
-        "13:07",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (166 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "B": [],
     "C": [],
     "D": [],
     "P": []
