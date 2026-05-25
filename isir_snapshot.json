@@ -922,6 +922,18 @@
         ""
       ],
       [
+        "C7 - \r\n                2.",
+        "25.05.2026",
+        "13:51",
+        "Výzva k odstranění vad podání",
+        "I_839",
+        "plný text\r\n                       (766 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C8 - \r\n                1.",
         "18.05.2026",
         "10:55",
@@ -1672,7 +1684,20 @@
     "B": [],
     "C": [],
     "D": [],
-    "P": []
+    "P": [
+      [
+        "P13 - \r\n                3.",
+        "26.09.2025",
+        "08:07",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihláškyUsnesení o část. ukončení účasti věřitele v insol. řízení",
+        "I_584I_594",
+        "plný text\r\n                       (234 kB)",
+        "plný text\r\n                       (255 kB)",
+        "04.11.2025",
+        "",
+        ""
+      ]
+    ]
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -5792,7 +5817,7 @@
       ],
       [
         "48.",
-        "20.06.2025",
+        "20.06.2024",
         "14:47",
         "Návrh na uspokojení pohledávky za podstatou",
         "I_420",
@@ -7407,10 +7432,70 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "48.",
+        "20.06.2025",
+        "14:47",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (316 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "48.",
+        "20.06.2025",
+        "14:47",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (316 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "48.",
+        "20.06.2025",
+        "14:47",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (316 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "48.",
+        "20.06.2025",
+        "14:47",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (316 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "48.",
+        "20.06.2025",
+        "14:47",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (316 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   }
 }
