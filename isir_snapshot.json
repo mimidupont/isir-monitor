@@ -946,6 +946,18 @@
         ""
       ],
       [
+        "C8 - \r\n                2.",
+        "25.05.2026",
+        "14:01",
+        "Výzva k odstranění vad podání",
+        "I_839",
+        "plný text\r\n                       (760 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -1681,23 +1693,34 @@
       ]
     ],
     "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": [
+    "B": [
       [
-        "P13 - \r\n                3.",
-        "26.09.2025",
-        "08:07",
-        "Usnesení o vzetí na vědomí částečného zpětvzetí přihláškyUsnesení o část. ukončení účasti věřitele v insol. řízení",
-        "I_584I_594",
-        "plný text\r\n                       (234 kB)",
-        "plný text\r\n                       (255 kB)",
-        "04.11.2025",
+        "34.",
+        "19.04.2026",
+        "11:49",
+        "Zpráva IS o stavu řízení",
+        "I_332",
+        "plný text\r\n                       (10140 kB)",
+        "",
         "",
         ""
+      ],
+      [
+        "P43 - \r\n                1.",
+        "14.06.2024",
+        "14:45",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (745 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "ČEZ Prodej, a.s.",
+        ""
       ]
-    ]
+    ],
+    "C": [],
+    "D": [],
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -5817,7 +5840,7 @@
       ],
       [
         "48.",
-        "20.06.2024",
+        "20.06.2025",
         "14:47",
         "Návrh na uspokojení pohledávky za podstatou",
         "I_420",
@@ -6119,7 +6142,7 @@
         "Přípis",
         "I_357",
         "plný text\r\n                       (206 kB)",
-        "plný text\r\n                       (182 kB)",
+        "plný text\r\n                       (196 kB)",
         "",
         ""
       ],
@@ -6130,7 +6153,29 @@
         "Schůze věřitelů",
         "I_451",
         "plný text\r\n                       (221 kB)",
-        "plný text\r\n                       (194 kB)",
+        "plný text\r\n                       (208 kB)",
+        "",
+        ""
+      ],
+      [
+        "76.",
+        "27.05.2026",
+        "13:42",
+        "Žádost o odročení jednání",
+        "I_867",
+        "plný text\r\n                       (158 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "77.",
+        "27.05.2026",
+        "13:45",
+        "Žádost insolvenčního správce",
+        "I_582",
+        "plný text\r\n                       (339 kB)",
+        "",
         "",
         ""
       ],
@@ -7432,70 +7477,10 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "48.",
-        "20.06.2025",
-        "14:47",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (316 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "B": [
-      [
-        "48.",
-        "20.06.2025",
-        "14:47",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (316 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "C": [
-      [
-        "48.",
-        "20.06.2025",
-        "14:47",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (316 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "48.",
-        "20.06.2025",
-        "14:47",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (316 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "48.",
-        "20.06.2025",
-        "14:47",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (316 kB)",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
   }
 }
