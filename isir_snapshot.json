@@ -886,6 +886,18 @@
         ""
       ],
       [
+        "C4 - \r\n                3.",
+        "02.06.2026",
+        "15:01",
+        "Vyjádření",
+        "I_41",
+        "plný text\r\n                       (996 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C5 - \r\n                1.",
         "15.05.2026",
         "13:13",
@@ -1719,20 +1731,7 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "P35 - \r\n                1.",
-        "18.07.2025",
-        "12:08",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (818 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "REAL ESTATE a.s.",
-        ""
-      ]
-    ],
+    "D": [],
     "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
@@ -6199,7 +6198,7 @@
         "Odročení jednání",
         "I_565",
         "plný text\r\n                       (210 kB)",
-        "plný text\r\n                       (170 kB)",
+        "plný text\r\n                       (184 kB)",
         "",
         ""
       ],
@@ -6210,7 +6209,7 @@
         "Přípis",
         "I_357",
         "plný text\r\n                       (203 kB)",
-        "plný text\r\n                       (185 kB)",
+        "plný text\r\n                       (199 kB)",
         "",
         ""
       ],
@@ -7548,7 +7547,20 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "P22 - \r\n                1.",
+        "16.12.2024",
+        "10:00",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (169 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "ČSOB Leasing, a.s.",
+        ""
+      ]
+    ],
     "B": [],
     "C": [],
     "D": [],
