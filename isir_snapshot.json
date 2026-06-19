@@ -1801,7 +1801,20 @@
     ],
     "A": [],
     "B": [],
-    "C": [],
+    "C": [
+      [
+        "P22 - \r\n                1.",
+        "10.04.2025",
+        "13:24",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1120 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "OHLA ŽS, a.s.",
+        ""
+      ]
+    ],
     "D": [],
     "P": []
   },
@@ -6296,6 +6309,17 @@
         ""
       ],
       [
+        "81.",
+        "19.06.2026",
+        "10:07",
+        "Sdělení insolvenčního správce",
+        "I_606",
+        "plný text\r\n                       (219 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -7645,6 +7669,29 @@
     "B": [],
     "C": [],
     "D": [],
-    "P": []
+    "P": [
+      [
+        "31.",
+        "08.04.2025",
+        "15:16",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (342 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "48.",
+        "01.12.2017",
+        "14:47",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (316 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   }
 }
