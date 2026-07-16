@@ -180,7 +180,7 @@
       ],
       [
         "8.",
-        "07.07.2021",
+        "13.05.2025",
         "13:22",
         "Opatření o určení osoby správce",
         "I_228",
@@ -1268,6 +1268,18 @@
         ""
       ],
       [
+        "C9 - \r\n                1.",
+        "15.07.2026",
+        "16:43",
+        "Nový nápad po vyloučení",
+        "I_644",
+        "plný text\r\n                       (2564 kB)",
+        "",
+        "",
+        "223 ICM 2198 / 2026",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -2011,74 +2023,26 @@
         ""
       ],
       [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ],
+      [
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "8.",
-        "13.05.2025",
-        "13:22",
-        "Opatření o určení osoby správce",
-        "I_228",
-        "plný text\r\n                       (697 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "B": [
-      [
-        "8.",
-        "13.05.2025",
-        "13:22",
-        "Opatření o určení osoby správce",
-        "I_228",
-        "plný text\r\n                       (697 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "C": [
-      [
-        "8.",
-        "13.05.2025",
-        "13:22",
-        "Opatření o určení osoby správce",
-        "I_228",
-        "plný text\r\n                       (697 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "8.",
-        "13.05.2025",
-        "13:22",
-        "Opatření o určení osoby správce",
-        "I_228",
-        "plný text\r\n                       (697 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "8.",
-        "13.05.2025",
-        "13:22",
-        "Opatření o určení osoby správce",
-        "I_228",
-        "plný text\r\n                       (697 kB)",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
