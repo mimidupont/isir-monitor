@@ -968,6 +968,18 @@
         ""
       ],
       [
+        "C3 - \r\n                16.",
+        "22.07.2026",
+        "08:45",
+        "Sdělení",
+        "I_28",
+        "plný text\r\n                       (607 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C4 - \r\n                1.",
         "15.05.2026",
         "11:10",
@@ -5657,7 +5669,7 @@
       [
         "2.",
         "22.11.2024",
-        "10:43",
+        "10:10",
         "Úřad práce - uspokojení mzdových nároků",
         "I_600",
         "plný text\r\n                       (162 kB)",
@@ -6564,6 +6576,17 @@
         "I_214I_356",
         "plný text\r\n                       (388 kB)",
         "plný text\r\n                       (149 kB)",
+        "",
+        ""
+      ],
+      [
+        "84.",
+        "22.07.2026",
+        "07:40",
+        "Sdělení insolvenčního správce",
+        "I_606",
+        "plný text\r\n                       (1078 kB)",
+        "",
         "",
         ""
       ],
@@ -7913,10 +7936,70 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "2.",
+        "22.11.2024",
+        "10:43",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (162 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "2.",
+        "22.11.2024",
+        "10:43",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (162 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "2.",
+        "22.11.2024",
+        "10:43",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (162 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "2.",
+        "22.11.2024",
+        "10:43",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (162 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "2.",
+        "22.11.2024",
+        "10:43",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (162 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   }
 }
