@@ -1616,7 +1616,7 @@
       ],
       [
         "P21 - \r\n                1.",
-        "10.05.2025",
+        "10.07.2025",
         "12:45",
         "Přihláška pohledávky",
         "I_63",
@@ -2074,87 +2074,11 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "17.",
-        "19.11.2013",
-        "11:02",
-        "Usnesení",
-        "I_66",
-        "plný text\r\n                       (230 kB)",
-        "plný text\r\n                       (186 kB)",
-        "",
-        ""
-      ],
-      [
-        "P21 - \r\n                1.",
-        "10.07.2025",
-        "12:45",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1816 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "CT Project s.r.o.",
-        ""
-      ]
-    ],
-    "B": [
-      [
-        "P21 - \r\n                1.",
-        "10.07.2025",
-        "12:45",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1816 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "CT Project s.r.o.",
-        ""
-      ]
-    ],
-    "C": [
-      [
-        "P21 - \r\n                1.",
-        "10.07.2025",
-        "12:45",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1816 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "CT Project s.r.o.",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "P21 - \r\n                1.",
-        "10.07.2025",
-        "12:45",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1816 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "CT Project s.r.o.",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "P21 - \r\n                1.",
-        "10.07.2025",
-        "12:45",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1816 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "CT Project s.r.o.",
-        ""
-      ]
-    ]
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
