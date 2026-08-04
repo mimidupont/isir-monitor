@@ -641,6 +641,28 @@
         ""
       ],
       [
+        "41.",
+        "03.08.2026",
+        "14:23",
+        "Zpráva IS o stavu řízení",
+        "I_332",
+        "plný text\r\n                       (1331 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "42.",
+        "03.08.2026",
+        "14:25",
+        "Návrh na vydání souhlasu se zpeněžením MP mimo dražbu",
+        "I_347",
+        "plný text\r\n                       (1198 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -1312,6 +1334,18 @@
         ""
       ],
       [
+        "C7 - \r\n                6.",
+        "03.08.2026",
+        "14:00",
+        "Vyjádření k žalobě",
+        "I_927",
+        "plný text\r\n                       (616 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C8 - \r\n                1.",
         "18.05.2026",
         "10:55",
@@ -1384,6 +1418,18 @@
         ""
       ],
       [
+        "C8 - \r\n                7.",
+        "04.08.2026",
+        "08:07",
+        "Rozsudek pro uznání",
+        "I_702",
+        "plný text\r\n                       (825 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C9 - \r\n                1.",
         "15.07.2026",
         "16:43",
@@ -1402,6 +1448,18 @@
         "Usnesení - výzva k vyjádření",
         "I_751",
         "plný text\r\n                       (698 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C9 - \r\n                3.",
+        "04.08.2026",
+        "10:49",
+        "Návrh na přerušení řízení",
+        "I_941",
+        "plný text\r\n                       (637 kB)",
         "",
         "",
         "",
@@ -2013,7 +2071,7 @@
         "Usnesení o část. odmítnutí přihláškyUsnesení o část. ukončení účasti věřitele v insol. řízení",
         "I_593I_594",
         "plný text\r\n                       (236 kB)",
-        "plný text\r\n                       (212 kB)",
+        "plný text\r\n                       (226 kB)",
         "",
         "",
         ""
@@ -2169,7 +2227,7 @@
         "Přihláška pohledávky",
         "I_63",
         "plný text\r\n                       (642 kB)",
-        "",
+        "plný text\r\n                       (119 kB)",
         "",
         "Finanční úřad pro Ústecký kraj",
         ""
@@ -2179,20 +2237,7 @@
       ]
     ],
     "A": [],
-    "B": [
-      [
-        "C2 - \r\n                7.",
-        "06.02.2026",
-        "08:49",
-        "Plná moc",
-        "I_55",
-        "plný text\r\n                       (807 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "B": [],
     "C": [],
     "D": [],
     "P": []
