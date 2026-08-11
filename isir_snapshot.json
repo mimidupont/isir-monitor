@@ -1802,7 +1802,7 @@
       ],
       [
         "P22 - \r\n                1.",
-        "15.07.2025",
+        "15.07.2023",
         "13:24",
         "Přihláška pohledávky",
         "I_63",
@@ -2246,7 +2246,7 @@
       ],
       [
         "P47 - \r\n                1.",
-        "15.07.2026",
+        "15.07.2023",
         "13:18",
         "Přihláška pohledávky",
         "I_63",
@@ -2262,32 +2262,131 @@
     ],
     "A": [
       [
-        "C8 - \r\n                3.",
-        "28.05.2022",
-        "15:40",
-        "Částečné zpětvzetí",
-        "I_646",
-        "plný text\r\n                       (591 kB)",
+        "P22 - \r\n                1.",
+        "15.07.2025",
+        "13:24",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1120 kB)",
+        "plný text\r\n                       (119 kB)",
         "",
+        "OHLA ŽS, a.s.",
+        ""
+      ],
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
         "",
-        "",
+        "Finanční úřad pro Ústecký kraj",
         ""
       ]
     ],
-    "B": [],
-    "C": [],
-    "D": [],
+    "B": [
+      [
+        "P22 - \r\n                1.",
+        "15.07.2025",
+        "13:24",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1120 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "OHLA ŽS, a.s.",
+        ""
+      ],
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P22 - \r\n                1.",
+        "15.07.2025",
+        "13:24",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1120 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "OHLA ŽS, a.s.",
+        ""
+      ],
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P22 - \r\n                1.",
+        "15.07.2025",
+        "13:24",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1120 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "OHLA ŽS, a.s.",
+        ""
+      ],
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
     "P": [
       [
-        "C4 - \r\n                6.",
-        "13.07.2022",
-        "15:27",
-        "Usnesení o zastavení incidenčního řízení",
-        "I_1092",
-        "plný text\r\n                       (194 kB)",
+        "P22 - \r\n                1.",
+        "15.07.2025",
+        "13:24",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1120 kB)",
+        "plný text\r\n                       (119 kB)",
         "",
+        "OHLA ŽS, a.s.",
+        ""
+      ],
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
         "",
-        "",
+        "Finanční úřad pro Ústecký kraj",
         ""
       ]
     ]
