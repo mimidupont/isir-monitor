@@ -2294,7 +2294,7 @@
       ],
       [
         "P47 - \r\n                1.",
-        "15.07.2026",
+        "15.07.2021",
         "13:18",
         "Přihláška pohledávky",
         "I_63",
@@ -2308,11 +2308,76 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "P47 - \r\n                1.",
+        "15.07.2026",
+        "13:18",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (642 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Ústecký kraj",
+        ""
+      ]
+    ]
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -8274,19 +8339,7 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "54.",
-        "20.04.2011",
-        "12:40",
-        "Sdělení insolvenčního správce",
-        "I_606",
-        "plný text\r\n                       (1921 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "A": [],
     "B": [],
     "C": [],
     "D": [],
