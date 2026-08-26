@@ -680,7 +680,7 @@
         "Usnesení o prodeji mimo dražbu",
         "I_535",
         "plný text\r\n                       (217 kB)",
-        "",
+        "plný text\r\n                       (219 kB)",
         "",
         ""
       ],
@@ -1542,6 +1542,18 @@
         "Návrh na přerušení řízení",
         "I_941",
         "plný text\r\n                       (637 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C9 - \r\n                4.",
+        "26.08.2026",
+        "08:19",
+        "VS - Převzetí věci vrchním soudem",
+        "I_900",
+        "plný text\r\n                       (930 kB)",
         "",
         "",
         "",
@@ -8126,7 +8138,7 @@
       ],
       [
         "P44 - \r\n                1.",
-        "12.02.2025",
+        "29.07.2021",
         "09:23",
         "Záznam o mylném zařazení",
         "I_329",
@@ -8296,10 +8308,122 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "25.",
+        "28.09.2025",
+        "13:20",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (162 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P44 - \r\n                1.",
+        "12.02.2025",
+        "09:23",
+        "Záznam o mylném zařazení",
+        "I_329",
+        "plný text\r\n                       (181 kB)",
+        "plný text\r\n                       (133 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "P44 - \r\n                1.",
+        "12.02.2025",
+        "09:23",
+        "Záznam o mylném zařazení",
+        "I_329",
+        "plný text\r\n                       (181 kB)",
+        "plný text\r\n                       (133 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P34 - \r\n                3.",
+        "04.12.2021",
+        "09:14",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
+        "I_584",
+        "plný text\r\n                       (206 kB)",
+        "plný text\r\n                       (218 kB)",
+        "20.12.2025",
+        "",
+        ""
+      ],
+      [
+        "P42 - \r\n                1.",
+        "19.10.2022",
+        "14:14",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (160 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Finanční úřad pro Moravskoslezský kraj",
+        ""
+      ],
+      [
+        "P44 - \r\n                1.",
+        "12.02.2025",
+        "09:23",
+        "Záznam o mylném zařazení",
+        "I_329",
+        "plný text\r\n                       (181 kB)",
+        "plný text\r\n                       (133 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P42 - \r\n                2.",
+        "26.07.2021",
+        "11:24",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (134 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P44 - \r\n                1.",
+        "12.02.2025",
+        "09:23",
+        "Záznam o mylném zařazení",
+        "I_329",
+        "plný text\r\n                       (181 kB)",
+        "plný text\r\n                       (133 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "P44 - \r\n                1.",
+        "12.02.2025",
+        "09:23",
+        "Záznam o mylném zařazení",
+        "I_329",
+        "plný text\r\n                       (181 kB)",
+        "plný text\r\n                       (133 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   }
 }
