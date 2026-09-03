@@ -389,7 +389,7 @@
       ],
       [
         "18.",
-        "19.09.2025",
+        "13.08.2024",
         "13:22",
         "Seznam/upravený seznam přihlášených pohledávek",
         "I_450",
@@ -1033,7 +1033,7 @@
       ],
       [
         "C3 - \r\n                9.",
-        "27.04.2026",
+        "27.04.2025",
         "09:22",
         "Usnesení - výzva k vyjádření",
         "I_751",
@@ -2342,15 +2342,51 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "18.",
+        "19.09.2025",
+        "13:22",
+        "Seznam/upravený seznam přihlášených pohledávek",
+        "I_450",
+        "plný text\r\n                       (1218 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C3 - \r\n                9.",
+        "27.04.2026",
+        "09:22",
+        "Usnesení - výzva k vyjádření",
+        "I_751",
+        "plný text\r\n                       (683 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
     "B": [
       [
-        "35.",
-        "18.03.2009",
-        "13:47",
-        "Zpětvzetí popření pohledávky insolvenčním správcem",
-        "I_498",
-        "plný text\r\n                       (610 kB)",
+        "18.",
+        "19.09.2025",
+        "13:22",
+        "Seznam/upravený seznam přihlášených pohledávek",
+        "I_450",
+        "plný text\r\n                       (1218 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C3 - \r\n                9.",
+        "27.04.2026",
+        "09:22",
+        "Usnesení - výzva k vyjádření",
+        "I_751",
+        "plný text\r\n                       (683 kB)",
+        "",
         "",
         "",
         ""
@@ -2358,42 +2394,76 @@
     ],
     "C": [
       [
-        "C1 - \r\n                3.",
-        "01.11.2023",
-        "10:04",
-        "Usnesení o zastavení incidenčního řízení",
-        "I_1092",
-        "plný text\r\n                       (865 kB)",
-        "",
-        "05.11.2025",
-        "",
-        ""
-      ]
-    ],
-    "D": [],
-    "P": [
-      [
-        "C4 - \r\n                2.",
-        "22.05.2009",
-        "11:48",
-        "Usnesení o výzvě k doplnění tvrzení",
-        "I_726",
-        "plný text\r\n                       (228 kB)",
-        "",
+        "18.",
+        "19.09.2025",
+        "13:22",
+        "Seznam/upravený seznam přihlášených pohledávek",
+        "I_450",
+        "plný text\r\n                       (1218 kB)",
         "",
         "",
         ""
       ],
       [
-        "P19 - \r\n                1.",
-        "08.04.2009",
-        "13:29",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (973 kB)",
-        "plný text\r\n                       (119 kB)",
+        "C3 - \r\n                9.",
+        "27.04.2026",
+        "09:22",
+        "Usnesení - výzva k vyjádření",
+        "I_751",
+        "plný text\r\n                       (683 kB)",
         "",
-        "D E L F Y s.r.o.",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "18.",
+        "19.09.2025",
+        "13:22",
+        "Seznam/upravený seznam přihlášených pohledávek",
+        "I_450",
+        "plný text\r\n                       (1218 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C3 - \r\n                9.",
+        "27.04.2026",
+        "09:22",
+        "Usnesení - výzva k vyjádření",
+        "I_751",
+        "plný text\r\n                       (683 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "18.",
+        "19.09.2025",
+        "13:22",
+        "Seznam/upravený seznam přihlášených pohledávek",
+        "I_450",
+        "plný text\r\n                       (1218 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C3 - \r\n                9.",
+        "27.04.2026",
+        "09:22",
+        "Usnesení - výzva k vyjádření",
+        "I_751",
+        "plný text\r\n                       (683 kB)",
+        "",
+        "",
+        "",
         ""
       ]
     ]
@@ -8369,47 +8439,10 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "8.",
-        "09.06.2009",
-        "12:48",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (194 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "A": [],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "7.",
-        "16.12.2009",
-        "12:39",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (165 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "C1 - \r\n                13.",
-        "08.12.2025",
-        "09:51",
-        "VS - Usnesení - změna",
-        "I_893",
-        "plný text\r\n                       (304 kB)",
-        "",
-        "09.12.2009",
-        "",
-        ""
-      ]
-    ]
+    "D": [],
+    "P": []
   }
 }
