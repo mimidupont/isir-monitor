@@ -538,7 +538,7 @@
         "I_535",
         "plný text\r\n                       (219 kB)",
         "plný text\r\n                       (248 kB)",
-        "13.07.2026",
+        "30.04.2026",
         ""
       ],
       [
@@ -942,6 +942,30 @@
         "Částečné zpětvzetí",
         "I_646",
         "plný text\r\n                       (712 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C2 - \r\n                19.",
+        "11.09.2026",
+        "13:28",
+        "Vyrozumění o odročení nebo odvolání jednání",
+        "I_833",
+        "plný text\r\n                       (679 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C2 - \r\n                20.",
+        "11.09.2026",
+        "13:30",
+        "Usnesení o částečném zpětvzetí",
+        "I_764",
+        "plný text\r\n                       (721 kB)",
         "",
         "",
         "",
@@ -1626,6 +1650,30 @@
         "VS - Převzetí věci vrchním soudem",
         "I_900",
         "plný text\r\n                       (930 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C10 - \r\n                1.",
+        "10.09.2026",
+        "15:21",
+        "Nový nápad po vyloučení",
+        "I_644",
+        "plný text\r\n                       (5094 kB)",
+        "",
+        "",
+        "226 ICM 2710 / 2026",
+        ""
+      ],
+      [
+        "C10 - \r\n                2.",
+        "10.09.2026",
+        "15:27",
+        "Pověření asistenta soudce/VSÚ",
+        "I_929",
+        "plný text\r\n                       (678 kB)",
         "",
         "",
         "",
@@ -2414,71 +2462,11 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "31.",
-        "30.04.2026",
-        "13:21",
-        "Usnesení o prodeji mimo dražbu",
-        "I_535",
-        "plný text\r\n                       (219 kB)",
-        "plný text\r\n                       (248 kB)",
-        "30.04.2026",
-        ""
-      ]
-    ],
-    "B": [
-      [
-        "31.",
-        "30.04.2026",
-        "13:21",
-        "Usnesení o prodeji mimo dražbu",
-        "I_535",
-        "plný text\r\n                       (219 kB)",
-        "plný text\r\n                       (248 kB)",
-        "30.04.2026",
-        ""
-      ]
-    ],
-    "C": [
-      [
-        "31.",
-        "30.04.2026",
-        "13:21",
-        "Usnesení o prodeji mimo dražbu",
-        "I_535",
-        "plný text\r\n                       (219 kB)",
-        "plný text\r\n                       (248 kB)",
-        "30.04.2026",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "31.",
-        "30.04.2026",
-        "13:21",
-        "Usnesení o prodeji mimo dražbu",
-        "I_535",
-        "plný text\r\n                       (219 kB)",
-        "plný text\r\n                       (248 kB)",
-        "30.04.2026",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "31.",
-        "30.04.2026",
-        "13:21",
-        "Usnesení o prodeji mimo dražbu",
-        "I_535",
-        "plný text\r\n                       (219 kB)",
-        "plný text\r\n                       (248 kB)",
-        "30.04.2026",
-        ""
-      ]
-    ]
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -8457,6 +8445,1068 @@
         "plný text\r\n                       (297 kB)",
         "28.03.2025",
         "",
+        ""
+      ],
+      [
+        "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
+      ]
+    ],
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
+  },
+  "2F21EAEC67B21F8EE06333F21FAC7924": {
+    "main": [
+      [
+        "",
+        "Ministerstvo spravedlnosti České republiky"
+      ],
+      [
+        "Detail insolvenčního řízení",
+        "Nikola Mičulková"
+      ],
+      [
+        "Aktuální stav",
+        "Povoleno oddluženíOddlužení"
+      ],
+      [
+        "Spisová značka",
+        "MSPH\r\n              59\r\n              INS\r\n              4177\r\n              /\r\n              2025vedená uMěstského soudu v Praze"
+      ],
+      [
+        "",
+        "Základní identifikační údaje"
+      ],
+      [
+        "",
+        "Jméno/název:",
+        "Nikola Mičulková"
+      ],
+      [
+        "",
+        "IČ:",
+        "04154401(viz obchodní rejstřík)"
+      ],
+      [
+        "",
+        "Rodné číslo / Datum nar.:",
+        "935208/5633 / 08.02.1993"
+      ],
+      [
+        "",
+        "Sídlo společnosti:",
+        "Fulnek, Nám.Komenského 12, PSČ 742 45, Okres Nový Jičín"
+      ],
+      [
+        "",
+        "Insolvenční správce"
+      ],
+      [
+        "",
+        "Insolvenční správce",
+        "jmt insol, v.o.s.(viz seznam insolvenčních správců)"
+      ],
+      [
+        "",
+        "- kancelář:",
+        "Praha, Vinohradská 89/90, PSČ 130 00, Okres Hlavní město Praha"
+      ],
+      [
+        "",
+        "Historie insolvenčního řízení"
+      ],
+      [
+        "",
+        "Konec lhůty pro přihlášení pohledávek",
+        "26.05.2025"
+      ],
+      [
+        "",
+        "Datum skončení insolvenčního řízení",
+        ""
+      ],
+      [
+        "",
+        "Mezinárodní příslušnost soudu",
+        "čl. 3 odst. 1 nařízení EP a Rady (EU) č. 2015/848"
+      ],
+      [
+        "",
+        "",
+        "„Lhůta pro podání odvolání proti výroku o mezinárodní příslušnosti činí 15 dnů ode dne doručení rozhodnutí o úpadku, které obsahuje výrok o mezinárodní příslušnosti, a podává se u výše uvedeného insolvenčního soudu.“"
+      ],
+      [
+        "",
+        "",
+        "„The time limit for lodging an appeal against the operative part on international jurisdiction shall be 15 days of receipt of the insolvency decision which contains the operative part on international jurisdiction. It shall be lodged at the insolvency court stated above.”"
+      ],
+      [
+        "Oddíl A - Řízení do úpadku",
+        "Oddíl B - Řízení po úpadku",
+        "Oddíl C - Incidenční spory",
+        "Oddíl D - Ostatní",
+        "Oddíl P - Přihlášky"
+      ],
+      [
+        "",
+        "Okamžik zveřejnění",
+        "Popis",
+        "ID události",
+        "Dokument",
+        "Vedlejší dokument *)",
+        "Datum právní moci",
+        "Senátní značka VS/NS"
+      ],
+      [
+        "1.",
+        "04.03.2025",
+        "14:48",
+        "Insolvenční návrh spojený s návrhem na povolení oddlužení",
+        "I_6",
+        "plný text\r\n                       (4800 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2.",
+        "04.03.2025",
+        "14:48",
+        "Návrh - přílohy",
+        "I_23",
+        "plný text\r\n                       (6210 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "3.",
+        "04.03.2025",
+        "14:48",
+        "Vyhláška o zahájení insolvenčního řízení",
+        "I_185",
+        "plný text\r\n                       (194 kB)",
+        "plný text\r\n                       (154 kB)",
+        "",
+        ""
+      ],
+      [
+        "4.",
+        "07.03.2025",
+        "11:28",
+        "Pověření asistenta soudce",
+        "I_354",
+        "plný text\r\n                       (223 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "5.",
+        "10.03.2025",
+        "15:03",
+        "Referát",
+        "I_445",
+        "plný text\r\n                       (194 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "6.",
+        "10.03.2025",
+        "15:06",
+        "Usnesení",
+        "I_66",
+        "plný text\r\n                       (273 kB)",
+        "plný text\r\n                       (246 kB)",
+        "",
+        ""
+      ],
+      [
+        "7.",
+        "10.03.2025",
+        "15:16",
+        "Výzva k opravě nebo doplnění návrhu na povolení oddlužení",
+        "I_199",
+        "plný text\r\n                       (271 kB)",
+        "plný text\r\n                       (237 kB)",
+        "",
+        ""
+      ],
+      [
+        "8.",
+        "25.03.2025",
+        "08:35",
+        "Návrh - doplnění návrhu",
+        "I_22",
+        "plný text\r\n                       (3904 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "9.",
+        "26.03.2025",
+        "10:44",
+        "Žádost o určení osoby správce",
+        "I_501",
+        "plný text\r\n                       (188 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "10.",
+        "26.03.2025",
+        "10:45",
+        "Opatření o určení osoby správce",
+        "I_228",
+        "plný text\r\n                       (695 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "11.",
+        "26.03.2025",
+        "11:02",
+        "Usnesení o úpadku spojené s povolením oddlužení",
+        "I_78",
+        "plný text\r\n                       (267 kB)",
+        "plný text\r\n                       (278 kB)",
+        "31.03.2025",
+        ""
+      ],
+      [
+        "12.",
+        "15.05.2025",
+        "10:22",
+        "Právní moc",
+        "I_369",
+        "plný text\r\n                       (198 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1.",
+        "26.03.2025",
+        "11:07",
+        "Usnesení o uložení povinnosti",
+        "I_468",
+        "plný text\r\n                       (297 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "2.",
+        "28.03.2025",
+        "09:19",
+        "Sdělení",
+        "I_28",
+        "plný text\r\n                       (802 kB)",
+        "plný text\r\n                       (136 kB)",
+        "",
+        ""
+      ],
+      [
+        "3.",
+        "08.04.2025",
+        "10:13",
+        "Sdělení insolvenčního správce",
+        "I_606",
+        "plný text\r\n                       (810 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "4.",
+        "29.04.2025",
+        "15:37",
+        "Pohledávka za majetkovou podstatou",
+        "I_1025",
+        "plný text\r\n                       (1920 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        ""
+      ],
+      [
+        "5.",
+        "31.07.2025",
+        "08:12",
+        "Zpráva pro oddluženíZpráva o přezkumuSoupis majetkové podstatySeznam/upravený seznam přihlášených pohledávek",
+        "I_1036I_1037I_334I_450",
+        "plný text\r\n                       (1049 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "6.",
+        "04.09.2025",
+        "11:04",
+        "Usnesení o uložení povinnosti",
+        "I_468",
+        "plný text\r\n                       (231 kB)",
+        "plný text\r\n                       (245 kB)",
+        "",
+        ""
+      ],
+      [
+        "7.",
+        "11.09.2025",
+        "10:27",
+        "Zpráva pro oddluženíZpráva o přezkumuSeznam/upravený seznam přihlášených pohledávekVyrozumění o popření přihlášené pohledávky",
+        "I_1036I_1037I_450I_998",
+        "plný text\r\n                       (3567 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "8.",
+        "15.10.2025",
+        "13:52",
+        "Vyhláška o zprávě o přezkumu a zprávě pro oddlužení",
+        "I_1053",
+        "plný text\r\n                       (183 kB)",
+        "plný text\r\n                       (160 kB)",
+        "",
+        ""
+      ],
+      [
+        "9.",
+        "02.12.2025",
+        "10:15",
+        "Usnesení o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty",
+        "I_1065",
+        "plný text\r\n                       (325 kB)",
+        "plný text\r\n                       (246 kB)",
+        "02.12.2025",
+        ""
+      ],
+      [
+        "10.",
+        "20.01.2026",
+        "11:15",
+        "Právní moc",
+        "I_369",
+        "plný text\r\n                       (198 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "11.",
+        "06.03.2026",
+        "08:19",
+        "Sdělení",
+        "I_28",
+        "plný text\r\n                       (723 kB)",
+        "plný text\r\n                       (123 kB)",
+        "",
+        ""
+      ],
+      [
+        "12.",
+        "06.03.2026",
+        "08:22",
+        "Zpráva IS o stavu řízení",
+        "I_332",
+        "plný text\r\n                       (676 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "13.",
+        "24.04.2026",
+        "07:50",
+        "Usnesení o uložení povinnosti",
+        "I_468",
+        "plný text\r\n                       (205 kB)",
+        "plný text\r\n                       (200 kB)",
+        "",
+        ""
+      ],
+      [
+        "14.",
+        "13.05.2026",
+        "10:40",
+        "Zpráva insolvenčního správce",
+        "I_1054",
+        "plný text\r\n                       (608 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "15.",
+        "15.05.2026",
+        "11:22",
+        "Usnesení o uložení povinnosti",
+        "I_468",
+        "plný text\r\n                       (244 kB)",
+        "plný text\r\n                       (182 kB)",
+        "",
+        ""
+      ],
+      [
+        "16.",
+        "03.06.2026",
+        "09:50",
+        "Vyjádření dlužníka",
+        "I_42",
+        "plný text\r\n                       (2487 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "17.",
+        "05.06.2026",
+        "08:38",
+        "Přípis",
+        "I_357",
+        "plný text\r\n                       (208 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "18.",
+        "05.06.2026",
+        "08:44",
+        "Vyjádření",
+        "I_41",
+        "plný text\r\n                       (2134 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "19.",
+        "15.07.2026",
+        "13:26",
+        "Předvolání k jednání",
+        "I_585",
+        "plný text\r\n                       (218 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "20.",
+        "15.07.2026",
+        "15:08",
+        "Předvolání k jednání",
+        "I_585",
+        "plný text\r\n                       (218 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "21.",
+        "15.07.2026",
+        "17:19",
+        "Předvolání k jednání",
+        "I_585",
+        "plný text\r\n                       (236 kB)",
+        "plný text\r\n                       (138 kB)",
+        "",
+        ""
+      ],
+      [
+        "22.",
+        "15.07.2026",
+        "17:38",
+        "Přípis",
+        "I_357",
+        "plný text\r\n                       (200 kB)",
+        "plný text\r\n                       (155 kB)",
+        "",
+        ""
+      ],
+      [
+        "23.",
+        "21.07.2026",
+        "13:01",
+        "Pohledávka za majetkovou podstatou",
+        "I_1025",
+        "plný text\r\n                       (669 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "24.",
+        "04.08.2026",
+        "13:17",
+        "Oznámení",
+        "I_427",
+        "plný text\r\n                       (657 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "25.",
+        "04.08.2026",
+        "13:35",
+        "Omluva na jednáníŽádost o odročení jednání",
+        "I_966I_867",
+        "plný text\r\n                       (4084 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "26.",
+        "04.08.2026",
+        "13:41",
+        "Vyjádření dlužníka",
+        "I_42",
+        "plný text\r\n                       (2312 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "27.",
+        "06.08.2026",
+        "09:58",
+        "Odročení jednání",
+        "I_565",
+        "plný text\r\n                       (91 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "28.",
+        "06.08.2026",
+        "12:18",
+        "Vyrozumění",
+        "I_210",
+        "plný text\r\n                       (189 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "29.",
+        "06.08.2026",
+        "12:22",
+        "Vyrozumění",
+        "I_210",
+        "plný text\r\n                       (188 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ],
+      [
+        "30.",
+        "06.08.2026",
+        "12:26",
+        "Vyrozumění",
+        "I_210",
+        "plný text\r\n                       (189 kB)",
+        "plný text\r\n                       (138 kB)",
+        "",
+        ""
+      ],
+      [
+        "31.",
+        "12.08.2026",
+        "09:26",
+        "Vyhláška",
+        "I_184",
+        "plný text\r\n                       (183 kB)",
+        "plný text\r\n                       (160 kB)",
+        "",
+        ""
+      ],
+      [
+        "32.",
+        "07.09.2026",
+        "10:11",
+        "Soupis majetkové podstaty",
+        "I_334",
+        "plný text\r\n                       (662 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Okamžik zveřejnění",
+        "Popis",
+        "ID události",
+        "Dokument",
+        "Vedlejší dokument *)",
+        "Datum právní moci",
+        "Spisová značka incidenčního sporu",
+        "Senátní značka VS/NS"
+      ],
+      [
+        "",
+        "Okamžik zveřejnění",
+        "Popis",
+        "ID události",
+        "Dokument",
+        "Vedlejší dokument *)",
+        "Datum právní moci",
+        "Platní věřitelé",
+        "Senátní značka VS/NS"
+      ],
+      [
+        "P1 - \r\n                1.",
+        "25.03.2025",
+        "10:39",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (736 kB)",
+        "plný text\r\n                       (123 kB)",
+        "",
+        "JUDr. Alena Blažková Ph.D.",
+        ""
+      ],
+      [
+        "P2 - \r\n                1.",
+        "28.03.2025",
+        "13:26",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (747 kB)",
+        "",
+        "",
+        "KAPITOL, a.s.",
+        ""
+      ],
+      [
+        "P3 - \r\n                1.",
+        "01.04.2025",
+        "10:45",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (738 kB)",
+        "",
+        "",
+        "JUDr. Ingrid Švecová",
+        ""
+      ],
+      [
+        "P4 - \r\n                1.",
+        "01.04.2025",
+        "10:55",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (741 kB)",
+        "",
+        "",
+        "Mgr. Michal Suchánek LL.M.",
+        ""
+      ],
+      [
+        "P5 - \r\n                1.",
+        "01.04.2025",
+        "13:07",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (4471 kB)",
+        "",
+        "",
+        "Jihoměstská majetková a.s.",
+        ""
+      ],
+      [
+        "P6 - \r\n                1.",
+        "01.04.2025",
+        "13:10",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (745 kB)",
+        "",
+        "",
+        "JUDr. Igor Olma",
+        ""
+      ],
+      [
+        "P7 - \r\n                1.",
+        "03.04.2025",
+        "14:15",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (848 kB)",
+        "",
+        "",
+        "JUDr. Ing. Petr Kučera",
+        ""
+      ],
+      [
+        "P8 - \r\n                1.",
+        "04.04.2025",
+        "14:13",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (799 kB)",
+        "",
+        "",
+        "Mgr. David Koncz",
+        ""
+      ],
+      [
+        "P9 - \r\n                1.",
+        "09.04.2025",
+        "10:05",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1159 kB)",
+        "",
+        "",
+        "Pražská energetika, a.s.",
+        ""
+      ],
+      [
+        "P10 - \r\n                1.",
+        "10.04.2025",
+        "09:34",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (3296 kB)",
+        "",
+        "",
+        "AB 4 B.V.",
+        ""
+      ],
+      [
+        "P11 - \r\n                1.",
+        "15.04.2025",
+        "11:26",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (847 kB)",
+        "",
+        "",
+        "Mgr. Pavel Preus",
+        ""
+      ],
+      [
+        "P12 - \r\n                1.",
+        "23.04.2025",
+        "10:14",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (2236 kB)",
+        "",
+        "",
+        "Intrum Czech, s.r.o.",
+        ""
+      ],
+      [
+        "P13 - \r\n                1.",
+        "23.04.2025",
+        "10:17",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (822 kB)",
+        "",
+        "",
+        "Mgr. Marcel Kubis",
+        ""
+      ],
+      [
+        "P14 - \r\n                1.",
+        "23.04.2025",
+        "10:30",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (821 kB)",
+        "",
+        "",
+        "KOCOUREK & partneři, advokátní kancelář, s.r.o.",
+        ""
+      ],
+      [
+        "P14 - \r\n                2.",
+        "28.04.2025",
+        "11:08",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (872 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P14 - \r\n                3.",
+        "05.05.2025",
+        "11:00",
+        "Zpětvzetí přihlášené pohledávky",
+        "I_581",
+        "plný text\r\n                       (768 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P14 - \r\n                4.",
+        "26.03.2026",
+        "15:33",
+        "Usnesení o vzetí na vědomí zpětvzetí přihlášky",
+        "I_126",
+        "plný text\r\n                       (254 kB)",
+        "plný text\r\n                       (241 kB)",
+        "11.04.2026",
+        "",
+        ""
+      ],
+      [
+        "P15 - \r\n                1.",
+        "28.04.2025",
+        "10:54",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (888 kB)",
+        "",
+        "",
+        "Mgr. Jana Slušná",
+        ""
+      ],
+      [
+        "P16 - \r\n                1.",
+        "28.04.2025",
+        "10:58",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (833 kB)",
+        "",
+        "",
+        "JUDr. Lukáš Jícha",
+        ""
+      ],
+      [
+        "P17 - \r\n                1.",
+        "28.04.2025",
+        "11:02",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (833 kB)",
+        "",
+        "",
+        "JUDr. Lukáš Jícha",
+        ""
+      ],
+      [
+        "P18 - \r\n                1.",
+        "29.04.2025",
+        "14:05",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (882 kB)",
+        "",
+        "",
+        "Celní úřad pro Moravskoslezský kraj",
+        ""
+      ],
+      [
+        "P19 - \r\n                1.",
+        "29.04.2025",
+        "14:10",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (2005 kB)",
+        "",
+        "",
+        "Česká kancelář pojistitelů",
+        ""
+      ],
+      [
+        "P20 - \r\n                1.",
+        "07.05.2025",
+        "16:33",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1028 kB)",
+        "",
+        "",
+        "Odkup pohledávek a majetku s.r.o.",
+        ""
+      ],
+      [
+        "P21 - \r\n                1.",
+        "13.05.2025",
+        "13:00",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (811 kB)",
+        "",
+        "",
+        "Okresní správa sociálního zabezpečení Nový Jičín",
+        ""
+      ],
+      [
+        "P22 - \r\n                1.",
+        "21.05.2025",
+        "09:14",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (2743 kB)",
+        "",
+        "",
+        "I-Xon a.s.",
+        ""
+      ],
+      [
+        "P23 - \r\n                1.",
+        "21.05.2025",
+        "10:16",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (2263 kB)",
+        "",
+        "",
+        "Vodafone Czech Republic a.s.",
+        ""
+      ],
+      [
+        "P24 - \r\n                1.",
+        "22.05.2025",
+        "12:33",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (819 kB)",
+        "",
+        "",
+        "Finanční úřad pro Moravskoslezský kraj",
+        ""
+      ],
+      [
+        "P24 - \r\n                2.",
+        "19.06.2025",
+        "10:00",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (776 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P25 - \r\n                1.",
+        "23.05.2025",
+        "09:04",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (801 kB)",
+        "",
+        "",
+        "Česká průmyslová zdravotní pojišťovna",
+        ""
+      ],
+      [
+        "P26 - \r\n                1.",
+        "26.05.2025",
+        "09:26",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (903 kB)",
+        "",
+        "",
+        "Bohemia Faktoring, a.s.",
+        ""
+      ],
+      [
+        "P27 - \r\n                1.",
+        "27.05.2025",
+        "10:35",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (1547 kB)",
+        "",
+        "",
+        "Mgr. Zuzana Grosamová",
+        ""
+      ],
+      [
+        "P28 - \r\n                1.",
+        "27.05.2025",
+        "14:56",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (2073 kB)",
+        "",
+        "",
+        "B2 Impact s.r.o.",
+        ""
+      ],
+      [
+        "P28 - \r\n                2.",
+        "26.08.2025",
+        "10:47",
+        "Zpětvzetí přihlášené pohledávky",
+        "I_581",
+        "plný text\r\n                       (870 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P28 - \r\n                3.",
+        "08.09.2025",
+        "16:05",
+        "Usnesení o vzetí na vědomí zpětvzetí přihlášky",
+        "I_126",
+        "plný text\r\n                       (252 kB)",
+        "plný text\r\n                       (245 kB)",
+        "04.10.2025",
+        "",
+        ""
+      ],
+      [
+        "P29 - \r\n                1.",
+        "29.05.2025",
+        "13:19",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (851 kB)",
+        "",
+        "",
+        "Mgr. Lucie Valentová",
+        ""
+      ],
+      [
+        "P29 - \r\n                2.",
+        "08.09.2025",
+        "15:51",
+        "Usnesení o odmítnutí přihlášky",
+        "I_124",
+        "plný text\r\n                       (275 kB)",
+        "plný text\r\n                       (219 kB)",
+        "04.10.2025",
+        "",
+        ""
+      ],
+      [
+        "P30 - \r\n                1.",
+        "11.06.2025",
+        "13:41",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (830 kB)",
+        "",
+        "",
+        "Dopravní podnik hl. m. Prahy, akciová společnost",
         ""
       ],
       [
