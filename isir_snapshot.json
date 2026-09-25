@@ -680,7 +680,7 @@
         "Usnesení o prodeji mimo dražbu",
         "I_535",
         "plný text\r\n                       (217 kB)",
-        "plný text\r\n                       (219 kB)",
+        "plný text\r\n                       (265 kB)",
         "",
         ""
       ],
@@ -2486,7 +2486,20 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "C9 - \r\n                4.",
+        "26.08.2026",
+        "14:23",
+        "VS - Převzetí věci vrchním soudem",
+        "I_900",
+        "plný text\r\n                       (930 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
     "B": [],
     "C": [],
     "D": [],
@@ -7121,6 +7134,17 @@
         "Návrh na uspokojení pohledávky za podstatou",
         "I_420",
         "plný text\r\n                       (161 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "94.",
+        "25.09.2026",
+        "11:43",
+        "Výzva na správce",
+        "I_195",
+        "plný text\r\n                       (183 kB)",
         "",
         "",
         ""
