@@ -1404,6 +1404,18 @@
         ""
       ],
       [
+        "C6 - \r\n                9.",
+        "30.09.2026",
+        "13:18",
+        "Usnesení o zastavení incidenčního řízení",
+        "I_1092",
+        "plný text\r\n                       (671 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C7 - \r\n                1.",
         "18.05.2026",
         "10:54",
@@ -1698,6 +1710,18 @@
         "Pověření asistenta soudce/VSÚ",
         "I_929",
         "plný text\r\n                       (678 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C10 - \r\n                3.",
+        "30.09.2026",
+        "14:31",
+        "Přípis",
+        "I_357",
+        "plný text\r\n                       (687 kB)",
         "",
         "",
         "",
@@ -2487,20 +2511,7 @@
       ]
     ],
     "A": [],
-    "B": [
-      [
-        "C1 - \r\n                3.",
-        "16.10.2025",
-        "15:32",
-        "Usnesení o zastavení incidenčního řízení",
-        "I_1092",
-        "plný text\r\n                       (865 kB)",
-        "",
-        "30.03.2022",
-        "",
-        ""
-      ]
-    ],
+    "B": [],
     "C": [],
     "D": [],
     "P": []
@@ -7145,7 +7156,7 @@
         "Výzva na správce",
         "I_195",
         "plný text\r\n                       (183 kB)",
-        "plný text\r\n                       (124 kB)",
+        "plný text\r\n                       (138 kB)",
         "",
         ""
       ],
@@ -8555,19 +8566,7 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "48.",
-        "20.06.2025",
-        "13:16",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (316 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "A": [],
     "B": [],
     "C": [],
     "D": [],
@@ -9166,6 +9165,50 @@
         "Sdělení správce o plnění oddlužení",
         "I_39",
         "plný text\r\n                       (1298 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "34.",
+        "30.09.2026",
+        "10:16",
+        "Evidenční karta diktafonového záznamu",
+        "I_765",
+        "plný text\r\n                       (658 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "35.",
+        "30.09.2026",
+        "10:34",
+        "Protokol o jednání",
+        "I_215",
+        "plný text\r\n                       (228 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "36.",
+        "30.09.2026",
+        "10:48",
+        "Žádost",
+        "I_367",
+        "plný text\r\n                       (1080 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "37.",
+        "30.09.2026",
+        "10:58",
+        "Přípis",
+        "I_357",
+        "plný text\r\n                       (203 kB)",
         "",
         "",
         ""
