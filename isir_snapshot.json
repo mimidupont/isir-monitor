@@ -781,7 +781,7 @@
       ],
       [
         "C2 - \r\n                5.",
-        "14.01.2022",
+        "14.01.2026",
         "15:33",
         "Zaplacení Sop převodem",
         "I_843",
@@ -2534,76 +2534,11 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "C2 - \r\n                5.",
-        "14.01.2026",
-        "15:33",
-        "Zaplacení Sop převodem",
-        "I_843",
-        "plný text\r\n                       (676 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "B": [
-      [
-        "C2 - \r\n                5.",
-        "14.01.2026",
-        "15:33",
-        "Zaplacení Sop převodem",
-        "I_843",
-        "plný text\r\n                       (676 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "C": [
-      [
-        "C2 - \r\n                5.",
-        "14.01.2026",
-        "15:33",
-        "Zaplacení Sop převodem",
-        "I_843",
-        "plný text\r\n                       (676 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "C2 - \r\n                5.",
-        "14.01.2026",
-        "15:33",
-        "Zaplacení Sop převodem",
-        "I_843",
-        "plný text\r\n                       (676 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "C2 - \r\n                5.",
-        "14.01.2026",
-        "15:33",
-        "Zaplacení Sop převodem",
-        "I_843",
-        "plný text\r\n                       (676 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -9314,6 +9249,17 @@
         ""
       ],
       [
+        "38.",
+        "05.10.2026",
+        "14:48",
+        "Sdělení správce o plnění oddlužení",
+        "I_39",
+        "plný text\r\n                       (688 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -9343,6 +9289,18 @@
         "Doplnění žaloby/návrhu",
         "I_647",
         "plný text\r\n                       (600 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C1 - \r\n                3.",
+        "05.10.2026",
+        "14:48",
+        "Usn. o výzvě k zaplacení SOP/doplatku SOP",
+        "I_725",
+        "plný text\r\n                       (677 kB)",
         "",
         "",
         "",
