@@ -8604,19 +8604,7 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "78.",
-        "29.05.2022",
-        "07:52",
-        "Odročení jednání",
-        "I_565",
-        "plný text\r\n                       (210 kB)",
-        "plný text\r\n                       (184 kB)",
-        "",
-        ""
-      ]
-    ],
+    "D": [],
     "P": []
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
@@ -8631,7 +8619,7 @@
       ],
       [
         "Aktuální stav",
-        "Povoleno oddluženíOddlužení"
+        "Vyřízená věc"
       ],
       [
         "Spisová značka",
@@ -9272,6 +9260,39 @@
         ""
       ],
       [
+        "39.",
+        "07.10.2026",
+        "15:07",
+        "Sdělení",
+        "I_28",
+        "plný text\r\n                       (589 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "40.",
+        "07.10.2026",
+        "16:35",
+        "Usnesení o zrušení schváleného oddlužení a zastavení řízeníUsnesení o zastavení řízeníUsnesení o odměně správceUsnesení o zproštění funkce správce po skončení řízeníUsnesení o uložení povinnosti",
+        "I_1050I_473I_165I_110I_468",
+        "plný text\r\n                       (251 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "41.",
+        "07.10.2026",
+        "16:42",
+        "Usnesení",
+        "I_66",
+        "plný text\r\n                       (188 kB)",
+        "plný text\r\n                       (197 kB)",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -9779,32 +9800,7 @@
     ],
     "A": [],
     "B": [],
-    "C": [
-      [
-        "P16 - \r\n                1.",
-        "19.08.2019",
-        "10:58",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (833 kB)",
-        "",
-        "",
-        "JUDr. Lukáš Jícha",
-        ""
-      ],
-      [
-        "P18 - \r\n                1.",
-        "29.04.2025",
-        "10:09",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (882 kB)",
-        "",
-        "",
-        "Celní úřad pro Moravskoslezský kraj",
-        ""
-      ]
-    ],
+    "C": [],
     "D": [],
     "P": []
   }
