@@ -702,7 +702,7 @@
         "Usnesení",
         "I_66",
         "plný text\r\n                       (213 kB)",
-        "",
+        "plný text\r\n                       (209 kB)",
         "",
         ""
       ],
@@ -1726,6 +1726,18 @@
         ""
       ],
       [
+        "C8 - \r\n                11.",
+        "22.10.2026",
+        "12:05",
+        "Usn. o výzvě k zaplacení SOP/doplatku SOP",
+        "I_725",
+        "plný text\r\n                       (673 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "C9 - \r\n                1.",
         "15.07.2026",
         "16:43",
@@ -2617,9 +2629,35 @@
       ]
     ],
     "A": [],
-    "B": [],
+    "B": [
+      [
+        "C7 - \r\n                10.",
+        "20.10.2024",
+        "10:09",
+        "Žádost o odročení jednání",
+        "I_867",
+        "plný text\r\n                       (607 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
     "C": [],
-    "D": [],
+    "D": [
+      [
+        "C5 - \r\n                5.",
+        "24.08.2022",
+        "15:22",
+        "Usnesení dle § 114b o.s.ř.",
+        "I_761",
+        "plný text\r\n                       (689 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
     "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
@@ -7278,6 +7316,17 @@
         ""
       ],
       [
+        "96.",
+        "22.10.2026",
+        "09:03",
+        "Sdělení insolvenčního správce",
+        "I_606",
+        "plný text\r\n                       (248 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -8683,10 +8732,47 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "P39 - \r\n                1.",
+        "23.01.2023",
+        "14:14",
+        "Přihláška pohledávky",
+        "I_63",
+        "plný text\r\n                       (163 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "Zdravotní ústav se sídlem v Ostravě",
+        ""
+      ]
+    ],
     "B": [],
-    "C": [],
-    "D": [],
+    "C": [
+      [
+        "93.",
+        "12.07.2023",
+        "12:59",
+        "Návrh na uspokojení pohledávky za podstatou",
+        "I_420",
+        "plný text\r\n                       (161 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "17.",
+        "25.05.2023",
+        "08:43",
+        "Úřad práce - uspokojení mzdových nároků",
+        "I_600",
+        "plný text\r\n                       (161 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
     "P": []
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
