@@ -2629,35 +2629,9 @@
       ]
     ],
     "A": [],
-    "B": [
-      [
-        "C7 - \r\n                10.",
-        "20.10.2024",
-        "10:09",
-        "Žádost o odročení jednání",
-        "I_867",
-        "plný text\r\n                       (607 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "B": [],
     "C": [],
-    "D": [
-      [
-        "C5 - \r\n                5.",
-        "24.08.2022",
-        "15:22",
-        "Usnesení dle § 114b o.s.ř.",
-        "I_761",
-        "plný text\r\n                       (689 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "D": [],
     "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
@@ -8732,47 +8706,10 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "P39 - \r\n                1.",
-        "23.01.2023",
-        "14:14",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (163 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "Zdravotní ústav se sídlem v Ostravě",
-        ""
-      ]
-    ],
+    "A": [],
     "B": [],
-    "C": [
-      [
-        "93.",
-        "12.07.2023",
-        "12:59",
-        "Návrh na uspokojení pohledávky za podstatou",
-        "I_420",
-        "plný text\r\n                       (161 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "17.",
-        "25.05.2023",
-        "08:43",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (161 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "C": [],
+    "D": [],
     "P": []
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
@@ -9981,7 +9918,19 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [],
+    "D": [
+      [
+        "1.",
+        "20.12.2021",
+        "11:15",
+        "Usnesení o uložení povinnosti",
+        "I_468",
+        "plný text\r\n                       (297 kB)",
+        "plný text\r\n                       (137 kB)",
+        "",
+        ""
+      ]
+    ],
     "P": []
   }
 }
