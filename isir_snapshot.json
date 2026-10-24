@@ -2628,11 +2628,36 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "6.",
+        "01.08.2025",
+        "09:35",
+        "Seznam přihlášených pohledávek",
+        "I_64",
+        "plný text\r\n                       (1330 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
     "B": [],
     "C": [],
     "D": [],
-    "P": []
+    "P": [
+      [
+        "C10 - \r\n                2.",
+        "10.09.2018",
+        "15:15",
+        "Pověření asistenta soudce/VSÚ",
+        "I_929",
+        "plný text\r\n                       (678 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -9918,19 +9943,7 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "1.",
-        "20.12.2021",
-        "11:15",
-        "Usnesení o uložení povinnosti",
-        "I_468",
-        "plný text\r\n                       (297 kB)",
-        "plný text\r\n                       (137 kB)",
-        "",
-        ""
-      ]
-    ],
+    "D": [],
     "P": []
   }
 }
