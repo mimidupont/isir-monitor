@@ -2628,36 +2628,11 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "6.",
-        "01.08.2025",
-        "09:35",
-        "Seznam přihlášených pohledávek",
-        "I_64",
-        "plný text\r\n                       (1330 kB)",
-        "",
-        "",
-        ""
-      ]
-    ],
+    "A": [],
     "B": [],
     "C": [],
     "D": [],
-    "P": [
-      [
-        "C10 - \r\n                2.",
-        "10.09.2018",
-        "15:15",
-        "Pověření asistenta soudce/VSÚ",
-        "I_929",
-        "plný text\r\n                       (678 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -9818,8 +9793,8 @@
       ],
       [
         "P24 - \r\n                2.",
-        "19.06.2025",
-        "10:00",
+        "19.06.2018",
+        "07:50",
         "Doplnění/oprava/změna přihlášené pohledávky",
         "I_563",
         "plný text\r\n                       (776 kB)",
@@ -9940,10 +9915,75 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "P24 - \r\n                2.",
+        "19.06.2025",
+        "10:00",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (776 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "P24 - \r\n                2.",
+        "19.06.2025",
+        "10:00",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (776 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P24 - \r\n                2.",
+        "19.06.2025",
+        "10:00",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (776 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P24 - \r\n                2.",
+        "19.06.2025",
+        "10:00",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (776 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "P24 - \r\n                2.",
+        "19.06.2025",
+        "10:00",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (776 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
   }
 }
