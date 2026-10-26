@@ -9457,6 +9457,18 @@
         ""
       ],
       [
+        "C1 - \r\n                5.",
+        "26.10.2026",
+        "07:09",
+        "Vyjádření k žalobě",
+        "I_927",
+        "plný text\r\n                       (608 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -9793,8 +9805,8 @@
       ],
       [
         "P24 - \r\n                2.",
-        "19.06.2018",
-        "07:50",
+        "19.06.2025",
+        "10:00",
         "Doplnění/oprava/změna přihlášené pohledávky",
         "I_563",
         "plný text\r\n                       (776 kB)",
@@ -9915,75 +9927,10 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "P24 - \r\n                2.",
-        "19.06.2025",
-        "10:00",
-        "Doplnění/oprava/změna přihlášené pohledávky",
-        "I_563",
-        "plný text\r\n                       (776 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "B": [
-      [
-        "P24 - \r\n                2.",
-        "19.06.2025",
-        "10:00",
-        "Doplnění/oprava/změna přihlášené pohledávky",
-        "I_563",
-        "plný text\r\n                       (776 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "C": [
-      [
-        "P24 - \r\n                2.",
-        "19.06.2025",
-        "10:00",
-        "Doplnění/oprava/změna přihlášené pohledávky",
-        "I_563",
-        "plný text\r\n                       (776 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "D": [
-      [
-        "P24 - \r\n                2.",
-        "19.06.2025",
-        "10:00",
-        "Doplnění/oprava/změna přihlášené pohledávky",
-        "I_563",
-        "plný text\r\n                       (776 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "P24 - \r\n                2.",
-        "19.06.2025",
-        "10:00",
-        "Doplnění/oprava/změna přihlášené pohledávky",
-        "I_563",
-        "plný text\r\n                       (776 kB)",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "P": []
   }
 }
