@@ -2642,20 +2642,7 @@
     ],
     "A": [],
     "B": [],
-    "C": [
-      [
-        "P13 - \r\n                1.",
-        "07.07.2023",
-        "13:43",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1500 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "OXOXO A.S.",
-        ""
-      ]
-    ],
+    "C": [],
     "D": [],
     "P": []
   },
@@ -7662,7 +7649,7 @@
       [
         "P1 - \r\n                5.",
         "25.09.2024",
-        "12:02",
+        "12:45",
         "Doplnění/oprava/změna přihlášené pohledávky",
         "I_563",
         "plný text\r\n                       (227 kB)",
@@ -8731,37 +8718,76 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "P1 - \r\n                5.",
+        "25.09.2024",
+        "12:02",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (227 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
     "B": [
       [
-        "P54 - \r\n                2.",
-        "04.03.2023",
-        "07:47",
-        "Usnesení o odmítnutí přihlášky",
-        "I_124",
-        "plný text\r\n                       (204 kB)",
-        "plný text\r\n                       (297 kB)",
-        "28.03.2025",
+        "P1 - \r\n                5.",
+        "25.09.2024",
+        "12:02",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (227 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
         "",
         ""
       ]
     ],
-    "C": [],
+    "C": [
+      [
+        "P1 - \r\n                5.",
+        "25.09.2024",
+        "12:02",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (227 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
     "D": [
       [
-        "C1 - \r\n                8.",
-        "13.04.2025",
-        "09:36",
-        "Výzva",
-        "I_189",
-        "plný text\r\n                       (214 kB)",
-        "",
+        "P1 - \r\n                5.",
+        "25.09.2024",
+        "12:02",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (227 kB)",
+        "plný text\r\n                       (119 kB)",
         "",
         "",
         ""
       ]
     ],
-    "P": []
+    "P": [
+      [
+        "P1 - \r\n                5.",
+        "25.09.2024",
+        "12:02",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (227 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
     "main": [
@@ -9433,7 +9459,7 @@
         "Usnesení o zrušení schváleného oddlužení a zastavení řízeníUsnesení o zastavení řízeníUsnesení o odměně správceUsnesení o zproštění funkce správce po skončení řízeníUsnesení o uložení povinnosti",
         "I_1050I_473I_165I_110I_468",
         "plný text\r\n                       (251 kB)",
-        "plný text\r\n                       (198 kB)",
+        "plný text\r\n                       (243 kB)",
         "",
         ""
       ],
@@ -9444,7 +9470,7 @@
         "Usnesení",
         "I_66",
         "plný text\r\n                       (188 kB)",
-        "plný text\r\n                       (197 kB)",
+        "plný text\r\n                       (220 kB)",
         "",
         ""
       ],
