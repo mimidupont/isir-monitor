@@ -8744,30 +8744,7 @@
     "A": [],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "12.",
-        "13.11.2026",
-        "15:25",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "není k dispozici",
-        "",
-        "",
-        ""
-      ],
-      [
-        "70.",
-        "28.02.2026",
-        "10:46",
-        "Výzva na správce",
-        "I_195",
-        "plný text\r\n                       (225 kB)",
-        "plný text\r\n                       (137 kB)",
-        "",
-        ""
-      ]
-    ],
+    "D": [],
     "P": []
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
@@ -9484,9 +9461,20 @@
         "Předložení věci vrchnímu soudu",
         "I_392",
         "plný text\r\n                       (183 kB)",
-        "",
+        "plný text\r\n                       (177 kB)",
         "",
         ""
+      ],
+      [
+        "45.",
+        "05.11.2026",
+        "10:53",
+        "Převzetí věci Vrchním soudem",
+        "I_382",
+        "plný text\r\n                       (270 kB)",
+        "",
+        "",
+        "4 VSPH 1572 / 2026"
       ],
       [
         "",
