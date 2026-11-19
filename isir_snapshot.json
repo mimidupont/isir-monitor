@@ -702,7 +702,7 @@
         "Usnesení",
         "I_66",
         "plný text\r\n                       (213 kB)",
-        "plný text\r\n                       (209 kB)",
+        "plný text\r\n                       (255 kB)",
         "",
         ""
       ],
@@ -2703,7 +2703,19 @@
     "B": [],
     "C": [],
     "D": [],
-    "P": []
+    "P": [
+      [
+        "6.",
+        "30.08.2025",
+        "10:30",
+        "Seznam přihlášených pohledávek",
+        "I_64",
+        "plný text\r\n                       (1330 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -8497,7 +8509,7 @@
       ],
       [
         "P37 - \r\n                3.",
-        "13.06.2025",
+        "13.06.2024",
         "11:16",
         "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
         "I_584",
@@ -8811,11 +8823,76 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "P37 - \r\n                3.",
+        "13.06.2025",
+        "11:16",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
+        "I_584",
+        "plný text\r\n                       (209 kB)",
+        "plný text\r\n                       (218 kB)",
+        "01.07.2025",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "P37 - \r\n                3.",
+        "13.06.2025",
+        "11:16",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
+        "I_584",
+        "plný text\r\n                       (209 kB)",
+        "plný text\r\n                       (218 kB)",
+        "01.07.2025",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P37 - \r\n                3.",
+        "13.06.2025",
+        "11:16",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
+        "I_584",
+        "plný text\r\n                       (209 kB)",
+        "plný text\r\n                       (218 kB)",
+        "01.07.2025",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P37 - \r\n                3.",
+        "13.06.2025",
+        "11:16",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
+        "I_584",
+        "plný text\r\n                       (209 kB)",
+        "plný text\r\n                       (218 kB)",
+        "01.07.2025",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "P37 - \r\n                3.",
+        "13.06.2025",
+        "11:16",
+        "Usnesení o vzetí na vědomí částečného zpětvzetí přihlášky",
+        "I_584",
+        "plný text\r\n                       (209 kB)",
+        "plný text\r\n                       (218 kB)",
+        "01.07.2025",
+        "",
+        ""
+      ]
+    ]
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
     "main": [
