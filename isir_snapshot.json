@@ -718,6 +718,17 @@
         ""
       ],
       [
+        "48.",
+        "23.11.2026",
+        "08:20",
+        "Zpětvzetí popření pohledávky insolvenčním správcem",
+        "I_498",
+        "plný text\r\n                       (644 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -1371,6 +1382,18 @@
         "Přípis žalobci/zástupci žalobce",
         "I_691",
         "plný text\r\n                       (686 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "C5 - \r\n                8.",
+        "23.11.2026",
+        "13:34",
+        "Žádost o prodloužení lhůty",
+        "I_583",
+        "plný text\r\n                       (669 kB)",
         "",
         "",
         "",
@@ -2711,20 +2734,7 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [
-      [
-        "C9 - \r\n                1.",
-        "15.04.2023",
-        "16:43",
-        "Nový nápad po vyloučení",
-        "I_644",
-        "plný text\r\n                       (2564 kB)",
-        "",
-        "",
-        "223 ICM 2198 / 2026",
-        ""
-      ]
-    ],
+    "A": [],
     "B": [],
     "C": [],
     "D": [],
@@ -8836,58 +8846,24 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
+    "A": [
+      [
+        "P1 - \r\n                2.",
+        "28.03.2022",
+        "10:51",
+        "Úřední záznam",
+        "I_223",
+        "plný text\r\n                       (212 kB)",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
     "B": [],
     "C": [],
-    "D": [
-      [
-        "P26 - \r\n                1.",
-        "11.05.2011",
-        "14:31",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (161 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "Hettich ČR k.s.",
-        ""
-      ]
-    ],
-    "P": [
-      [
-        "12.",
-        "13.11.2021",
-        "16:06",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (163 kB)",
-        "",
-        "",
-        ""
-      ],
-      [
-        "15.",
-        "21.09.2021",
-        "11:06",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (160 kB)",
-        "",
-        "",
-        ""
-      ],
-      [
-        "17.",
-        "27.01.2021",
-        "08:09",
-        "Úřad práce - uspokojení mzdových nároků",
-        "I_600",
-        "plný text\r\n                       (161 kB)",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "D": [],
+    "P": []
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
     "main": [
@@ -9734,6 +9710,18 @@
         ""
       ],
       [
+        "C1 - \r\n                6.",
+        "23.11.2026",
+        "07:41",
+        "Vyjádření",
+        "I_41",
+        "plný text\r\n                       (625 kB)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
         "",
         "Okamžik zveřejnění",
         "Popis",
@@ -10196,18 +10184,6 @@
     "B": [],
     "C": [],
     "D": [],
-    "P": [
-      [
-        "44.",
-        "04.11.2023",
-        "16:19",
-        "Předložení věci vrchnímu soudu",
-        "I_392",
-        "plný text\r\n                       (183 kB)",
-        "plný text\r\n                       (177 kB)",
-        "",
-        ""
-      ]
-    ]
+    "P": []
   }
 }
