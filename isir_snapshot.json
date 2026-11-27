@@ -2738,20 +2738,7 @@
     "B": [],
     "C": [],
     "D": [],
-    "P": [
-      [
-        "P41 - \r\n                1.",
-        "18.07.2024",
-        "13:12",
-        "Přihláška pohledávky",
-        "I_63",
-        "plný text\r\n                       (1874 kB)",
-        "plný text\r\n                       (119 kB)",
-        "",
-        "Česká kancelář pojistitelů",
-        ""
-      ]
-    ]
+    "P": []
   },
   "4C2E35F83AE7912BE06333F21FACBE50": {
     "main": [
@@ -8233,7 +8220,7 @@
       ],
       [
         "P21 - \r\n                4.",
-        "02.01.2025",
+        "29.01.2025",
         "09:06",
         "Doplnění/oprava/změna přihlášené pohledávky",
         "I_563",
@@ -8859,11 +8846,76 @@
         "Ministerstvo spravedlnosti ČR, Vyšehradská 16, 128 10 Praha 2, Česká republika."
       ]
     ],
-    "A": [],
-    "B": [],
-    "C": [],
-    "D": [],
-    "P": []
+    "A": [
+      [
+        "P21 - \r\n                4.",
+        "02.01.2025",
+        "09:06",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (167 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "B": [
+      [
+        "P21 - \r\n                4.",
+        "02.01.2025",
+        "09:06",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (167 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "C": [
+      [
+        "P21 - \r\n                4.",
+        "02.01.2025",
+        "09:06",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (167 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "D": [
+      [
+        "P21 - \r\n                4.",
+        "02.01.2025",
+        "09:06",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (167 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "P": [
+      [
+        "P21 - \r\n                4.",
+        "02.01.2025",
+        "09:06",
+        "Doplnění/oprava/změna přihlášené pohledávky",
+        "I_563",
+        "plný text\r\n                       (167 kB)",
+        "plný text\r\n                       (119 kB)",
+        "",
+        "",
+        ""
+      ]
+    ]
   },
   "2F21EAEC67B21F8EE06333F21FAC7924": {
     "main": [
@@ -9635,6 +9687,28 @@
         "I_357",
         "plný text\r\n                       (208 kB)",
         "plný text\r\n                       (162 kB)",
+        "",
+        ""
+      ],
+      [
+        "50.",
+        "27.11.2026",
+        "12:28",
+        "Vrácení spisu soudu I. stupně",
+        "I_237",
+        "plný text\r\n                       (1814 kB)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "51.",
+        "27.11.2026",
+        "12:44",
+        "Sdělení",
+        "I_28",
+        "plný text\r\n                       (597 kB)",
+        "",
         "",
         ""
       ],
